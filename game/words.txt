@@ -1,0 +1,7 @@
+relax,i,dObj
+contract,i,dObj
+throat,e
+jaw,e
+hand,e
+elbow,e
+shoulder,e
